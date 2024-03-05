@@ -20,5 +20,5 @@
     
 ◼ **진행 일정**
 - 
-<a href="https://ibb.co/7nr4KqG"><img src="https://i.ibb.co/3pSzcn0/2024-03-05-103826.png" alt="2024-03-05-103826" border="0" height="400"></a>
+<a href="https://ibb.co/7nr4KqG"><img src="https://i.ibb.co/3pSzcn0/2024-03-05-103826.png" alt="2024-03-05-103826" border="0" height="400" width="1200"></a>
     
