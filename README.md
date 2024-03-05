@@ -17,11 +17,26 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           </div>
     </div>
-<h2>🕰️ 개발 기간</h2>
-<br>
+
+## 🕰️ **개발 기간**
+
 ![스크린샷 2024-03-05 103826](https://github.com/tjsgml/connect1/assets/151723337/00e5f3d3-04db-48db-aa0a-13bad00318c9)
-<h2>🧑‍🤝‍🧑 맴버구성</h2>
-<br>
-<h2>📌 주요 기능</h2>
-<br>
+**
+
+## 🧑‍🤝‍🧑 맴버구성
+![스크린샷 2024-03-05 111147](https://github.com/tjsgml/connect1/assets/151723337/d92cb0ea-f25e-49c4-80f4-25b501b2a572)
+
+
+
+## 📌 주요 기능
+
+**⭐마이페이지⭐**
+
+![스크린샷 2024-03-05 112925](https://github.com/tjsgml/connect1/assets/151723337/c2e55267-a0db-4a58-88d2-60f50d15f9ba)
+-
+- **프로필 페이지**
+![스크린샷 2024-03-05 113153](https://github.com/tjsgml/connect1/assets/151723337/55fa75a5-c9a6-421f-b4ed-459406181aa2)
+
+- **댓글, 게시글 , 스크랩 리스트 페이지**
+![스크린샷 2024-03-05 113800](https://github.com/tjsgml/connect1/assets/151723337/5b6b161d-0d29-4e49-afef-47f5eee264b6)
 
