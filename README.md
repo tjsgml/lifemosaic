@@ -3,6 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+        <h2>🖥️ 프로젝트 소개 </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 익명으로 자신의 삶이 불투명하게 모자이크 된 것처럼 편하게 이야기를 나눌 수 있는 커뮤니티 사이트 </div> 
     </div>
     <div style="text-align: left;">
@@ -18,7 +19,7 @@
           </div>
     </div>
     
-🖥️ 프로젝트 소개 
+
 - 
 <a href="https://ibb.co/7nr4KqG"></a>
     
