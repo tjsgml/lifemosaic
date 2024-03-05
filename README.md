@@ -18,8 +18,10 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           </div>
     </div>
-    
+<h2>🕰️ 개발 기간</h2>
+<br>
+<h2>🧑‍🤝‍🧑 맴버구성</h2>
+<br>
+<h2>📌 주요 기능</h2>
+<br>
 
-- 
-<a href="https://ibb.co/7nr4KqG"></a>
-    
