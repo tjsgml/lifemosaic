@@ -18,3 +18,7 @@
           </div>
     </div>
     
+◼ **진행 일정**
+- 
+![기획일정](file:///C:/Users/sunhe/OneDrive/%EC%82%AC%EC%A7%84/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-05%20103826.png)
+    
