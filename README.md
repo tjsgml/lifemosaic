@@ -21,7 +21,7 @@
 ## 🕰️ 개발 기간
 
 ![스크린샷 2024-03-05 103826](https://github.com/tjsgml/connect1/assets/151723337/00e5f3d3-04db-48db-aa0a-13bad00318c9)
-**
+
 
 ## 🧑‍🤝‍🧑 맴버구성
 ![스크린샷 2024-03-05 111147](https://github.com/tjsgml/connect1/assets/151723337/d92cb0ea-f25e-49c4-80f4-25b501b2a572)
@@ -34,7 +34,8 @@
 
 ![스크린샷 2024-03-05 112925](https://github.com/tjsgml/connect1/assets/151723337/c2e55267-a0db-4a58-88d2-60f50d15f9ba)
 
-- 
+1. 마이페이지 
+
  **프로필 페이지**
 ![스크린샷 2024-03-05 113153](https://github.com/tjsgml/connect1/assets/151723337/55fa75a5-c9a6-421f-b4ed-459406181aa2)
 
